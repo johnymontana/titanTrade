@@ -8,3 +8,5 @@
 ## Data model
 Simple graph based trading market consisting of sellers, traders, and buyers
 
+![datamodel image](/img/market.png)
+
